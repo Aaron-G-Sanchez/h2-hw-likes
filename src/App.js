@@ -1,10 +1,10 @@
 import './App.css'
-import Likes from './components/Likes'
+import Main from './components/Main'
 
 function App() {
   return (
     <div className="App">
-      <Likes />
+      <Main />
     </div>
   )
 }
